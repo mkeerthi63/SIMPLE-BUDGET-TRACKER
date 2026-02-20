@@ -1,0 +1,134 @@
+💰 WELCOME TO BUDGET TRACKER 💰
+----------------------------------------
+
+Enter your weekly budget: $150
+
+Budget: $150.00
+Spent: $0.00
+Remaining: $150.00 (100.0% left)
+✓ Status: Good!
+
+========================================
+MENU:
+1. Add a purchase
+2. Buy multiple items
+3. Calculate discount
+4. Exit
+========================================
+Choose (1-4): 1
+
+--- Add Purchase ---
+Item name: pens
+Item price: $5
+How many items? 5
+Buy 5 pens(s) for $25.00? (yes/no): yes
+✓ Purchased 5 pens(s)!
+
+Budget: $150.00
+Spent: $25.00
+Remaining: $125.00 (83.3% left)
+✓ Status: Good!
+
+========================================
+MENU:
+1. Add a purchase
+2. Buy multiple items
+3. Calculate discount
+4. Exit
+========================================
+Choose (1-4): 2
+
+--- Multiple Items ---
+Enter items (type 'done' to finish)
+
+Item #1 name (or 'done'): pencil
+Price per pencil: $5
+How many pencil? 2
+✓ Added 2 pencil(s)
+
+Item #3 name (or 'done'): markers
+Price per markers: $10
+How many markers? 3
+✓ Added 3 markers(s)
+
+Item #6 name (or 'done'): done
+
+📦 Cart: 5 items, Total: $40.00
+✓ Safe to buy!
+Proceed with purchase? (yes/no): yes
+✓ Purchase complete!
+
+Budget: $150.00
+Spent: $65.00
+Remaining: $85.00 (56.7% left)
+✓ Status: Good!
+
+========================================
+MENU:
+1. Add a purchase
+2. Buy multiple items
+3. Calculate discount
+4. Exit
+========================================
+Choose (1-4): 3
+
+--- Discount Calculator ---
+Original price: $40
+Discount %: 5
+Original: $40.00
+Discount: 5% off ($2.00)
+Final: $38.00
+✓ You can afford this!
+
+Budget: $150.00
+Spent: $65.00
+Remaining: $85.00 (56.7% left)
+✓ Status: Good!
+
+========================================
+MENU:
+1. Add a purchase
+2. Buy multiple items
+3. Calculate discount
+4. Exit
+========================================
+Choose (1-4): 1
+
+--- Add Purchase ---
+Item name: shoe
+Item price: $60
+How many items? 1
+Buy 1 shoe(s) for $60.00? (yes/no): yes
+✓ Purchased 1 shoe(s)!
+
+Budget: $150.00
+Spent: $125.00
+Remaining: $25.00 (16.7% left)
+⚠ Status: Be careful!
+
+========================================
+MENU:
+1. Add a purchase
+2. Buy multiple items
+3. Calculate discount
+4. Exit
+========================================
+Choose (1-4): 4
+
+Exiting...
+
+========================================
+FINAL SUMMARY
+========================================
+Budget: $150.00
+Spent: $125.00
+Remaining: $25.00
+Total Purchases: 11
+
+📊 Shopping Behavior:
+    Saver 💎
+    Moderate 👍
+  → Spender 💸 ⭐ (You are here!)
+
+========================================
+Thanks for using Budget Tracker! 👋
